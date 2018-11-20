@@ -1,0 +1,16 @@
+package exercise;
+
+public class Main {
+
+    public static void main(String[] args) {
+       boolean temperature (int someTemperature ) {
+           if (temperature > 0){
+               System.out.println("temperatureIsPositive");
+           }
+           else{
+               System.out.println("temperatureIsNegative");
+           }
+        }
+
+    }
+}
